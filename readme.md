@@ -7,8 +7,8 @@
 # Installation
 
 ```bash
-git clone https://github.com/nikitakiselev/dolina
-cd dolina
+git clone https://github.com/nikitakiselev/boroviki
+cd boroviki
 yarn
 gulp && gulp watch
 ```
